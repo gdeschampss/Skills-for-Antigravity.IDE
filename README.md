@@ -1,3 +1,5 @@
+#copy repository
+
 # Antigravity Skill Vault
 
 A curated collection of **Agent Skills** for **Google Antigravity**, ported from the [Claude Code Agents](https://github.com/wshobson/agents) repository.
